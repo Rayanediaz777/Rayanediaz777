@@ -1,16 +1,15 @@
-## Hi there 👋
+### Bem Vindos ao Meu Perfil 💙💙💙
 
-<!--
-**Rayanediaz777/Rayanediaz777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rayane Gabriel Diaz
 
-Here are some ideas to get you started:
+- Sou estudante da [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo em JavaScript
+- Utilizo esse espaço para o compartilhamento dos meus projetos e para minha organização
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você Pode entrar em contato comigo 📫
+
+00001117324308sp@al.educacao.sp.gov.br
+
+@RayaneDiaz
+
+![](https://media1.tenor.com/m/EsfZ2mf2YQoAAAAC/snoopy-esnupi.gif)
